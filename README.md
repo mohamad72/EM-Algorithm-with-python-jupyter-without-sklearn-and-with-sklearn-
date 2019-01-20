@@ -1,4 +1,4 @@
-# EM-Algorithm-with-python-jupyter-without-sklearn-and-with-sklearn-
+# EM Algorithm with python jupyter without sklearn and with sklearn
 this python code is for these 2 videos:
 
 lesson 1:
